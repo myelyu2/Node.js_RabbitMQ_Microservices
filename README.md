@@ -1,4 +1,4 @@
-# Node.js_RabbitMQ_Microservices
+# Node.js + RabbitMQ Microservices
 This project demonstrates a simple implementation of microservices using Node.js and RabbitMQ. The project consists of two services: M1 and M2.
 
 ## About
